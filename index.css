@@ -1,0 +1,31 @@
+body {
+	margin: 0;
+}
+
+header {
+	background: rgb(100, 100, 255);
+	color: white;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li {
+	background: rgba(100, 100, 103, .6);
+	display: inline-block;
+	list-style-type: none;
+	margin: 5px 2px 0 2px;
+	padding: 2% 5%;
+}
+
+header h1 {
+	margin: 0;
+	display: inline;
+	padding: 2%;
+}
+
+nav ul li a {
+	color: inherit;
+}

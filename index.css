@@ -28,7 +28,7 @@ header h1 {
 	padding: 2%;
 }
 
-nav ul li a {
+a {
 	color: inherit;
 	display: block;
 }
